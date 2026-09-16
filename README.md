@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=RaSun0-0&color=green)
+![](https://komarev.com/ghpvc/?username=RaSun0-0&color=red)
 <img width="360" height="360" alt="image" src="https://github.com/user-attachments/assets/ae49e4c6-944d-4ec4-bce1-6eea91f07512" />
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Setthawut Srichon
